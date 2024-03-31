@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawel-rus&locale=en&hide_title=false&layout=compact&card_width=460&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/pawe%C5%82-rus-92a322167/" target="blank">
+  <a href="https://www.linkedin.com/in/pawel-rus/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-pawel-rus" height="40" width="40" />
   </a>
 </div>
