@@ -61,7 +61,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawel-rus&theme=dark&background=000000" alt="pawel-rus" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawel-rus&locale=en&hide_title=false&layout=compact&card_width=460&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawel-rus&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/pawel-rus/" target="blank">
