@@ -65,9 +65,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawel-rus&theme=dark&background=000000" alt="pawel-rus" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawel-rus&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
-</p>
+</p> -->
+
 <div align="center">
   <a href="https://www.linkedin.com/in/pawel-rus/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-pawel-rus" height="40" width="40" />
